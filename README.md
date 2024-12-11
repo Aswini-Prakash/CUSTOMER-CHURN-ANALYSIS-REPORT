@@ -1,5 +1,8 @@
 CUSTOMER CHURN ANALYSIS REPORT
 
+![image](https://github.com/user-attachments/assets/770151e2-83c4-45ce-ae3d-2fd3e00c7b02)
+
+
 This repository contains a Customer Churn Analysis Dashboard built using data visualization tools. The dashboard provides an overview of customer churn trends, including active/inactive customer segmentation, credit card usage statistics, and churn rates by various categories.
 
 Key Features:
